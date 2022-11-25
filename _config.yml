@@ -106,7 +106,7 @@ deploy:
   type: git
   repository: https://github.com/NAFIAK/Caily.github.io.git
   # git@github.com:NAFIAK/Caily.github.io.git
-  branch: main
+  branch: master
 
 live2d:
   enable: true #是否显示看板娘
